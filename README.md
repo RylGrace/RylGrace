@@ -10,8 +10,8 @@
 <div align="center">
 
 [strawpage](https://rylandgraced.straw.page) ⚝ [old git](https://github.com/rylandpaw) ⚝ [新book](https://rylands.atabook.org)
+<img width="918" height="918" alt="image" src="https://github.com/user-attachments/assets/019acb74-f545-462f-95b8-5d96b24dbd50" />
 
-<img width="1224" height="816" alt="image" src="https://github.com/user-attachments/assets/470ab6b4-11b9-4642-8a94-c6d432f6b915" />
 
 
 
