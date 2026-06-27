@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[strawpage](https://rylandgraced.straw.page) ⚝ [old git](https://github.com/rylandpaw) ⚝ [新book](https://rylands.atabook.org)
+[strawpage](https://rylandgraced.straw.page) ⚝ [old git](https://github.com/rylandpaw) ⚝ [prnspg](https://en.pronouns.page/@rylands) ⚝ [新book](https://rylands.atabook.org)
 <img width="918" height="918" alt="image" src="https://github.com/user-attachments/assets/019acb74-f545-462f-95b8-5d96b24dbd50" />
 
 
